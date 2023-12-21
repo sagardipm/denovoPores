@@ -1,6 +1,6 @@
 # denovoPores
 Matlab scripts and functions for getting current amplitude data from ion-conductance measurements of denovo-designed nanopores.
-Please refer to the following manuscript for context. https://urldefense.com/v3/__https://doi.org/10.1101/2023.12.20.572500).we've__;!!K-Hz7m0Vt54!gH7Esjx7nS9px6LBECqzYF8iG6zazdK9WsMEBjDLUNKl16tDJZPg_0pfywriRznI277m-gZ-OB3Tb0vjUUr_E_ivsA$
+Please refer to the following manuscript for context. https://www.biorxiv.org/content/10.1101/2023.12.20.572500v1
 
 
 Typically the raw current data is filtered by an 8-pole Bessel filter and downsampled to 50 or 100 Hz. 
